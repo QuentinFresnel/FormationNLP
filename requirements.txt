@@ -1,0 +1,8 @@
+spacy
+spacy-lefff
+bs4
+wordcloud
+pandas
+sklearn
+seaborn
+minisom
