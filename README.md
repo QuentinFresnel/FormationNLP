@@ -6,4 +6,6 @@ Cliquez sur le bouton ci-dessous pour lancer l'environnement jupyter :
 
 Cliquez sur le logo ci dessous pour lancer l'environnement google colab :
 
-[![colab](https://cdn-images-1.medium.com/freeze/max/1000/1*Lad06lrjlU9UZgSTHUoyfA.png?q=20)](https://colab.research.google.com/github/QuentinFresnel/FormationNLP/blob/dev/Session%202%20-%20embeddings.ipynb)
+<a href="https://colab.research.google.com/github/QuentinFresnel/FormationNLP/blob/dev/Session%202%20-%20embeddings.ipynb">
+    <img src="https://cdn-images-1.medium.com/freeze/max/1000/1*Lad06lrjlU9UZgSTHUoyfA.png?q=20" alt="colab" width="100"/>
+</a>
